@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Counter](https://count.getloli.com/get/@fs.github.readme)
+
 <!--
 **FlyingSky-CN/FlyingSky-CN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
