@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [Home](https://fsky7.com) •
-[Blog](https://blog.fsky7.com) •
-[Telegram](https://t.me/FlyingSky666)
+[Blog](https://blog.fsky7.com)
 
 ![Counter](https://count.getloli.com/get/@fs.github.readme)
 
